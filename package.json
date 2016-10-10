@@ -1,0 +1,17 @@
+{
+  "name": "amazon-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.12",
+    "express": "^4.14.0",
+    "mqtt": "^1.14.1",
+    "ws": "^1.1.1"
+  }
+}
